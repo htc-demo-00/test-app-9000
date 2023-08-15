@@ -1,6 +1,7 @@
 # Podinfo - Test-app-9000
 
 A simple score project deploying podinfo.
+Hurray!
 
 ## Deploying
 
